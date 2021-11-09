@@ -1,16 +1,30 @@
-# authentic_mexican_recipes
+# Mexican Plate
 
-A new Flutter project.
+######Purpose
+Many Mexican-Americans lose touch with their cultural meals. In an effort
+to embrace our cultural foods or simply expand our palate, Mexican Plate was made!
+This app provides easy access to multiple authentic recipes organized by
+meal time and special occasions.
 
-## Getting Started
+###### Categories
+Breakfast
+Lunch & Dinner
+Drinks
+Dessert
+Christmas
+New Years
+Dia de Los Muertos
+Semana Santa
 
-This project is a starting point for a Flutter application.
+###### Easy Usage
+Each category is clickable and leads you to a page that lists recipes that fit that
+specific category. Some recipes will be found under multiple categories.
+Without having to click the recipe to see cook time and cooking method, users
+can easily find that information at the bottom of each recipe card.
 
-A few resources to get you started if this is your first Flutter project:
+If a user wishes to save a recipe that they like, they can do so on recipe's page.
+The bottom navigation bar is easily accessible from the home page.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+---
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+© Grecia Alvarado, California Polytechnic State University, Pomona
