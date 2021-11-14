@@ -1,6 +1,6 @@
 # Mexican Plate
 
-######Purpose
+##Purpose
 Many Mexican-Americans lose touch with their cultural meals. In an effort
 to embrace our cultural foods or simply expand our palate, Mexican Plate was made!
 This app provides easy access to multiple authentic recipes organized by
